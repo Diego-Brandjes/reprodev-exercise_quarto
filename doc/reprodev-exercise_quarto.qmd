@@ -1,8 +1,5 @@
 ---
 title: "reprodev-exercise_quarto"
-authors:
-  - name: "Gerko Vink"
-    orcid: "0000-0001-9767-1924"
 format: html
 bibliography: references.bib
 ---
